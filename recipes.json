@@ -1,0 +1,367 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Classic Spaghetti Carbonara",
+      "cuisine": "italian",
+      "servings": 4,
+      "prep_time": 20,
+      "ingredients": [
+        {"item": "spaghetti", "amount": 400, "unit": "g"},
+        {"item": "pancetta", "amount": 200, "unit": "g"},
+        {"item": "eggs", "amount": 4, "unit": "whole"},
+        {"item": "parmesan", "amount": 100, "unit": "g"},
+        {"item": "black pepper", "amount": 1, "unit": "tsp"}
+      ],
+      "steps": [
+        "Cook spaghetti according to package directions",
+        "Fry pancetta until crispy",
+        "Whisk eggs with parmesan",
+        "Combine hot pasta with pancetta, remove from heat",
+        "Add egg mixture and toss quickly",
+        "Season with black pepper and serve"
+      ],
+      "tags": ["pasta", "quick", "comfort food"]
+    },
+    {
+      "id": "2",
+      "name": "Vegetable Stir Fry",
+      "cuisine": "asian",
+      "servings": 2,
+      "prep_time": 15,
+      "ingredients": [
+        {"item": "tofu", "amount": 200, "unit": "g"},
+        {"item": "broccoli", "amount": 150, "unit": "g"},
+        {"item": "bell pepper", "amount": 1, "unit": "whole"},
+        {"item": "soy sauce", "amount": 3, "unit": "tbsp"},
+        {"item": "garlic", "amount": 2, "unit": "cloves"},
+        {"item": "sesame oil", "amount": 1, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Press and cube tofu",
+        "Chop vegetables into bite-sized pieces",
+        "Heat sesame oil in wok over high heat",
+        "Fry tofu until golden, set aside",
+        "Stir fry vegetables with garlic",
+        "Add tofu back, season with soy sauce",
+        "Serve over rice"
+      ],
+      "tags": ["vegetarian", "vegan", "healthy", "quick"]
+    },
+    {
+      "id": "3",
+      "name": "Chicken Tikka Masala",
+      "cuisine": "indian",
+      "servings": 4,
+      "prep_time": 45,
+      "ingredients": [
+        {"item": "chicken breast", "amount": 500, "unit": "g"},
+        {"item": "yogurt", "amount": 200, "unit": "g"},
+        {"item": "tomato puree", "amount": 400, "unit": "g"},
+        {"item": "heavy cream", "amount": 100, "unit": "ml"},
+        {"item": "garam masala", "amount": 2, "unit": "tbsp"},
+        {"item": "onion", "amount": 1, "unit": "whole"},
+        {"item": "garlic", "amount": 3, "unit": "cloves"}
+      ],
+      "steps": [
+        "Marinate chicken in yogurt and spices for 30 min",
+        "Grill or pan-fry chicken until charred",
+        "Sauté onion and garlic until soft",
+        "Add tomato puree and simmer",
+        "Add cream and garam masala",
+        "Add chicken and simmer 10 minutes",
+        "Serve with rice or naan"
+      ],
+      "tags": ["curry", "spicy", "comfort food"]
+    },
+    {
+      "id": "4",
+      "name": "Greek Salad",
+      "cuisine": "mediterranean",
+      "servings": 2,
+      "prep_time": 10,
+      "ingredients": [
+        {"item": "cucumber", "amount": 1, "unit": "whole"},
+        {"item": "tomatoes", "amount": 3, "unit": "whole"},
+        {"item": "red onion", "amount": 0.5, "unit": "whole"},
+        {"item": "feta cheese", "amount": 100, "unit": "g"},
+        {"item": "olives", "amount": 50, "unit": "g"},
+        {"item": "olive oil", "amount": 3, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Chop cucumber and tomatoes into chunks",
+        "Slice red onion thinly",
+        "Combine vegetables in bowl",
+        "Top with feta and olives",
+        "Drizzle with olive oil",
+        "Season with oregano and salt"
+      ],
+      "tags": ["vegetarian", "healthy", "no-cook", "quick"]
+    },
+    {
+      "id": "5",
+      "name": "Beef Tacos",
+      "cuisine": "mexican",
+      "servings": 4,
+      "prep_time": 25,
+      "ingredients": [
+        {"item": "ground beef", "amount": 400, "unit": "g"},
+        {"item": "taco shells", "amount": 8, "unit": "whole"},
+        {"item": "lettuce", "amount": 100, "unit": "g"},
+        {"item": "tomatoes", "amount": 2, "unit": "whole"},
+        {"item": "cheddar cheese", "amount": 100, "unit": "g"},
+        {"item": "taco seasoning", "amount": 2, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Brown ground beef in pan",
+        "Add taco seasoning and water",
+        "Simmer until thickened",
+        "Warm taco shells",
+        "Shred lettuce and dice tomatoes",
+        "Assemble tacos with toppings",
+        "Top with shredded cheese"
+      ],
+      "tags": ["quick", "family-friendly"]
+    },
+    {
+      "id": "6",
+      "name": "Mushroom Risotto",
+      "cuisine": "italian",
+      "servings": 4,
+      "prep_time": 40,
+      "ingredients": [
+        {"item": "arborio rice", "amount": 300, "unit": "g"},
+        {"item": "mushrooms", "amount": 250, "unit": "g"},
+        {"item": "vegetable broth", "amount": 1, "unit": "L"},
+        {"item": "white wine", "amount": 100, "unit": "ml"},
+        {"item": "parmesan", "amount": 50, "unit": "g"},
+        {"item": "butter", "amount": 30, "unit": "g"},
+        {"item": "onion", "amount": 1, "unit": "whole"}
+      ],
+      "steps": [
+        "Heat broth and keep warm",
+        "Sauté onion in butter",
+        "Add mushrooms and cook until soft",
+        "Add rice and toast for 2 minutes",
+        "Add wine and stir until absorbed",
+        "Add broth one ladle at a time, stirring",
+        "Finish with parmesan and butter"
+      ],
+      "tags": ["vegetarian", "comfort food"]
+    },
+    {
+      "id": "7",
+      "name": "Grilled Salmon",
+      "cuisine": "american",
+      "servings": 2,
+      "prep_time": 20,
+      "ingredients": [
+        {"item": "salmon fillet", "amount": 300, "unit": "g"},
+        {"item": "lemon", "amount": 1, "unit": "whole"},
+        {"item": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"item": "dill", "amount": 2, "unit": "tbsp"},
+        {"item": "garlic", "amount": 2, "unit": "cloves"}
+      ],
+      "steps": [
+        "Mix olive oil, lemon juice, dill, and garlic",
+        "Marinate salmon for 15 minutes",
+        "Preheat grill to medium-high",
+        "Grill salmon 4-5 minutes per side",
+        "Serve with lemon wedges"
+      ],
+      "tags": ["healthy", "protein", "quick"]
+    },
+    {
+      "id": "8",
+      "name": "Pad Thai",
+      "cuisine": "asian",
+      "servings": 2,
+      "prep_time": 30,
+      "ingredients": [
+        {"item": "rice noodles", "amount": 200, "unit": "g"},
+        {"item": "shrimp", "amount": 150, "unit": "g"},
+        {"item": "eggs", "amount": 2, "unit": "whole"},
+        {"item": "bean sprouts", "amount": 100, "unit": "g"},
+        {"item": "peanuts", "amount": 50, "unit": "g"},
+        {"item": "fish sauce", "amount": 3, "unit": "tbsp"},
+        {"item": "tamarind paste", "amount": 2, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Soak rice noodles in warm water",
+        "Make sauce with fish sauce and tamarind",
+        "Scramble eggs in wok, set aside",
+        "Cook shrimp until pink",
+        "Add noodles and sauce",
+        "Add eggs and bean sprouts",
+        "Top with crushed peanuts"
+      ],
+      "tags": ["noodles", "seafood"]
+    },
+    {
+      "id": "9",
+      "name": "Caprese Salad",
+      "cuisine": "italian",
+      "servings": 2,
+      "prep_time": 5,
+      "ingredients": [
+        {"item": "mozzarella", "amount": 200, "unit": "g"},
+        {"item": "tomatoes", "amount": 3, "unit": "whole"},
+        {"item": "basil", "amount": 10, "unit": "leaves"},
+        {"item": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"item": "balsamic glaze", "amount": 1, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Slice mozzarella and tomatoes",
+        "Arrange alternating on plate",
+        "Tuck basil leaves between slices",
+        "Drizzle with olive oil",
+        "Add balsamic glaze",
+        "Season with salt and pepper"
+      ],
+      "tags": ["vegetarian", "no-cook", "quick", "appetizer"]
+    },
+    {
+      "id": "10",
+      "name": "Black Bean Soup",
+      "cuisine": "mexican",
+      "servings": 6,
+      "prep_time": 35,
+      "ingredients": [
+        {"item": "black beans", "amount": 400, "unit": "g"},
+        {"item": "onion", "amount": 1, "unit": "whole"},
+        {"item": "garlic", "amount": 3, "unit": "cloves"},
+        {"item": "cumin", "amount": 1, "unit": "tbsp"},
+        {"item": "vegetable broth", "amount": 750, "unit": "ml"},
+        {"item": "lime", "amount": 1, "unit": "whole"}
+      ],
+      "steps": [
+        "Sauté onion and garlic",
+        "Add cumin and cook 1 minute",
+        "Add beans and broth",
+        "Simmer 20 minutes",
+        "Blend half for creamy texture",
+        "Serve with lime and cilantro"
+      ],
+      "tags": ["vegan", "vegetarian", "healthy", "soup"]
+    },
+    {
+      "id": "11",
+      "name": "Chicken Caesar Salad",
+      "cuisine": "american",
+      "servings": 2,
+      "prep_time": 20,
+      "ingredients": [
+        {"item": "chicken breast", "amount": 250, "unit": "g"},
+        {"item": "romaine lettuce", "amount": 200, "unit": "g"},
+        {"item": "parmesan", "amount": 50, "unit": "g"},
+        {"item": "croutons", "amount": 50, "unit": "g"},
+        {"item": "caesar dressing", "amount": 60, "unit": "ml"}
+      ],
+      "steps": [
+        "Season and grill chicken breast",
+        "Slice chicken into strips",
+        "Chop romaine lettuce",
+        "Toss lettuce with dressing",
+        "Top with chicken and croutons",
+        "Shave parmesan over top"
+      ],
+      "tags": ["salad", "protein", "quick"]
+    },
+    {
+      "id": "12",
+      "name": "Vegetable Curry",
+      "cuisine": "indian",
+      "servings": 4,
+      "prep_time": 35,
+      "ingredients": [
+        {"item": "potatoes", "amount": 300, "unit": "g"},
+        {"item": "cauliflower", "amount": 200, "unit": "g"},
+        {"item": "chickpeas", "amount": 200, "unit": "g"},
+        {"item": "coconut milk", "amount": 400, "unit": "ml"},
+        {"item": "curry powder", "amount": 2, "unit": "tbsp"},
+        {"item": "onion", "amount": 1, "unit": "whole"}
+      ],
+      "steps": [
+        "Cube potatoes and cauliflower",
+        "Sauté onion until golden",
+        "Add curry powder and cook 1 minute",
+        "Add vegetables and chickpeas",
+        "Pour in coconut milk",
+        "Simmer until vegetables are tender",
+        "Serve with rice"
+      ],
+      "tags": ["vegan", "vegetarian", "curry", "healthy"]
+    },
+    {
+      "id": "13",
+      "name": "BLT Sandwich",
+      "cuisine": "american",
+      "servings": 1,
+      "prep_time": 10,
+      "ingredients": [
+        {"item": "bacon", "amount": 4, "unit": "strips"},
+        {"item": "bread", "amount": 2, "unit": "slices"},
+        {"item": "tomatoes", "amount": 1, "unit": "whole"},
+        {"item": "lettuce", "amount": 2, "unit": "leaves"},
+        {"item": "mayonnaise", "amount": 1, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Cook bacon until crispy",
+        "Toast bread slices",
+        "Spread mayo on toast",
+        "Layer lettuce, tomato, bacon",
+        "Top with second slice",
+        "Cut diagonally and serve"
+      ],
+      "tags": ["quick", "sandwich", "lunch"]
+    },
+    {
+      "id": "14",
+      "name": "Miso Soup",
+      "cuisine": "asian",
+      "servings": 4,
+      "prep_time": 15,
+      "ingredients": [
+        {"item": "miso paste", "amount": 3, "unit": "tbsp"},
+        {"item": "tofu", "amount": 150, "unit": "g"},
+        {"item": "wakame seaweed", "amount": 10, "unit": "g"},
+        {"item": "green onions", "amount": 2, "unit": "whole"},
+        {"item": "dashi stock", "amount": 800, "unit": "ml"}
+      ],
+      "steps": [
+        "Heat dashi stock",
+        "Cube tofu into small pieces",
+        "Rehydrate wakame in water",
+        "Add tofu and wakame to stock",
+        "Remove from heat",
+        "Whisk in miso paste",
+        "Garnish with sliced green onions"
+      ],
+      "tags": ["vegan", "vegetarian", "soup", "quick", "healthy"]
+    },
+    {
+      "id": "15",
+      "name": "Banana Pancakes",
+      "cuisine": "american",
+      "servings": 2,
+      "prep_time": 20,
+      "ingredients": [
+        {"item": "bananas", "amount": 2, "unit": "whole"},
+        {"item": "eggs", "amount": 2, "unit": "whole"},
+        {"item": "flour", "amount": 100, "unit": "g"},
+        {"item": "milk", "amount": 100, "unit": "ml"},
+        {"item": "maple syrup", "amount": 2, "unit": "tbsp"}
+      ],
+      "steps": [
+        "Mash bananas in bowl",
+        "Add eggs and mix well",
+        "Stir in flour and milk",
+        "Heat buttered pan over medium",
+        "Pour small circles of batter",
+        "Flip when bubbles form",
+        "Serve with maple syrup"
+      ],
+      "tags": ["breakfast", "vegetarian", "sweet"]
+    }
+  ]
+}
